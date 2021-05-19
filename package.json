@@ -1,0 +1,18 @@
+{
+  "name": "legends-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TemporalAgent7",
+  "license": "GPL-3",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "https": "^1.0.0"
+  }
+}
